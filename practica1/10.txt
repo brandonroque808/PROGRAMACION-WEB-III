@@ -1,0 +1,1 @@
+Callback se usa cuando se necesita ejecutar algo despues de otra funcion, promesa se usa cuando se necesita manejar operaciones asincronas de forma mas clara y encadenada
